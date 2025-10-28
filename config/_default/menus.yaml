@@ -1,0 +1,17 @@
+leftnav:
+- identifier: bb75eadc-6a4d-bbcd-aa04-ec100b9481f3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 575706fc-b564-9103-b960-c62582964e01
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 20
+- identifier: 8dcb7253-9d7f-4329-2fa7-a85847c6a081
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 30
+- identifier: 0221515b-867b-12f0-5038-02e04d2549fa
+  name: Repertoire List
+  pageRef: /pages/repertoire-list
+  weight: 40
